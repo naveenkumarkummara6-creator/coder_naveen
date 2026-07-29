@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0278-first-bad-version](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0278-first-bad-version/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
