@@ -30,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0075-sort-colors/) | Medium |
+| [0344-reverse-string](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0278-first-bad-version/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
