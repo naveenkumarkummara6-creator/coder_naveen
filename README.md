@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0060-permutation-sequence](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0412-fizz-buzz/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +48,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
