@@ -19,6 +19,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
