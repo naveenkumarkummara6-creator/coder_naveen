@@ -56,6 +56,7 @@
 | [0338-counting-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0338-counting-bits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2595-number-of-even-and-odd-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
+| [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3226-number-of-bit-changes-to-make-two-integers-equal/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
