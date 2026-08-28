@@ -53,6 +53,7 @@
 | [0260-single-number-iii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0338-counting-bits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2595-number-of-even-and-odd-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2595-number-of-even-and-odd-bits/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
