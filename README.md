@@ -46,6 +46,7 @@
 | [0078-subsets](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
+| [0338-counting-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0338-counting-bits/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0078-subsets/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
