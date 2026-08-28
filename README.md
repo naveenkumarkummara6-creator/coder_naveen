@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0260-single-number-iii/) | Medium |
 ## Hash Table
@@ -47,6 +48,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0078-subsets/) | Medium |
+| [0136-single-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
