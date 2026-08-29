@@ -11,12 +11,14 @@
 | [0136-single-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0260-single-number-iii/) | Medium |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0001-two-sum/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -33,6 +35,7 @@
 | [0412-fizz-buzz](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0507-perfect-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -99,10 +102,35 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 <!---LeetCode Topics End-->
