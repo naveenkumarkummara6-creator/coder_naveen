@@ -31,6 +31,7 @@
 | [0067-add-binary](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0067-add-binary/) | Easy |
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0412-fizz-buzz/) | Easy |
+| [0507-perfect-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0507-perfect-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
