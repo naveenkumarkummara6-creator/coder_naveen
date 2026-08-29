@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0137-single-number-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0260-single-number-iii/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0412-fizz-buzz/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -86,4 +88,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0338-counting-bits/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
 <!---LeetCode Topics End-->
