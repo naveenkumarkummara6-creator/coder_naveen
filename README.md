@@ -10,6 +10,7 @@
 | [0078-subsets](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0137-single-number-ii/) | Medium |
+| [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
 | [0260-single-number-iii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0260-single-number-iii/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -32,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0067-add-binary/) | Easy |
+| [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0507-perfect-number/) | Easy |
@@ -107,6 +109,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -127,6 +130,7 @@
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Greatest Common Divisor
@@ -136,15 +140,21 @@
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0002-add-two-numbers/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
