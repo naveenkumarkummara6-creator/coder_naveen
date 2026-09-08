@@ -28,6 +28,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0067-add-binary/) | Easy |
@@ -43,6 +44,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
 ## Two Pointers
@@ -140,4 +142,8 @@
 | ------- | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
