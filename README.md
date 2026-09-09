@@ -14,6 +14,7 @@
 | [0260-single-number-iii](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0260-single-number-iii/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3370-smallest-number-with-all-set-bits](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3870-count-commas-in-range](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3870-count-commas-in-range/) | Easy |
@@ -113,6 +115,7 @@
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
