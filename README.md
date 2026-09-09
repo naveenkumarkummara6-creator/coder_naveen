@@ -39,6 +39,7 @@
 | [0412-fizz-buzz](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0507-perfect-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1952-three-divisors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1952-three-divisors/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -112,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1952-three-divisors/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -124,6 +126,7 @@
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1952-three-divisors/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Euclidean Algorithm
@@ -144,6 +147,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1952-three-divisors/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Prime Number Sieve
@@ -160,4 +164,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
