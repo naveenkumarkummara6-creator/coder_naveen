@@ -165,4 +165,8 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
 | [1952-three-divisors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1952-three-divisors/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1068-product-sales-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
