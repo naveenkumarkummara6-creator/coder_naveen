@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0013-roman-to-integer/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Binary Search
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0013-roman-to-integer/) | Easy |
 | [0060-permutation-sequence](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0067-add-binary/) | Easy |
 | [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
@@ -84,6 +86,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0067-add-binary/) | Easy |
 | [0344-reverse-string](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0412-fizz-buzz/) | Easy |
