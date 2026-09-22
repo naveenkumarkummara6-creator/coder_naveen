@@ -169,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1068-product-sales-analysis-i](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1148-article-views-i](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1148-article-views-i/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
