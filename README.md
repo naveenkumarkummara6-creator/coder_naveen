@@ -15,6 +15,7 @@
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3233-find-the-count-of-numbers-which-are-not-special/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -22,6 +23,7 @@
 | [0001-two-sum](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0013-roman-to-integer/) | Easy |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -55,6 +57,7 @@
 | [0002-add-two-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0231-power-of-two/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +171,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/0204-count-primes/) | Medium |
 | [1952-three-divisors](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/1952-three-divisors/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/naveenkumarkummara6-creator/coder_naveen/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
